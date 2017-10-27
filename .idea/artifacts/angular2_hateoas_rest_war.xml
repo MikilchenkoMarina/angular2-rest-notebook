@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="angular2-hateoas-rest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="angular2-hateoas-rest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="angular2-hateoas-rest:war exploded" />
+    </root>
+  </artifact>
+</component>
